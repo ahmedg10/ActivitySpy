@@ -1,0 +1,128 @@
+---------------------------- PROCESS STARTED (5614) for package edu.uw.ischool.UW2065357.activityspy ----------------------------
+---------------------------- PROCESS STARTED (5614) for package edu.uw.ischool.UW2065357.activityspy ----------------------------
+--------- beginning of main
+--------- beginning of kernel
+--------- beginning of system
+2023-10-22 20:56:32.646  5170-5170  357.activityspy         edu...ischool.UW2065357.activityspy  I  Late-enabling -Xcheck:jni
+2023-10-22 20:56:32.859  5170-5170  357.activityspy         edu...ischool.UW2065357.activityspy  I  Using CollectorTypeCC GC.
+2023-10-22 20:56:32.954  5170-5170  Compatibil...geReporter edu...ischool.UW2065357.activityspy  D  Compat change id reported: 171979766; UID 10183; state: ENABLED
+2023-10-22 20:56:32.959  5170-5170  Compatibil...geReporter edu...ischool.UW2065357.activityspy  D  Compat change id reported: 242716250; UID 10183; state: DISABLED
+2023-10-22 20:56:32.965  5170-5170  ziparchive              edu...ischool.UW2065357.activityspy  W  Unable to open '/data/app/~~wd79-vobGYaFFJyu6a-bEg==/edu.uw.ischool.UW2065357.activityspy-CblY4UgO0I3i8sVR09qeJg==/base.dm': No such file or directory
+2023-10-22 20:56:32.965  5170-5170  ziparchive              edu...ischool.UW2065357.activityspy  W  Unable to open '/data/app/~~wd79-vobGYaFFJyu6a-bEg==/edu.uw.ischool.UW2065357.activityspy-CblY4UgO0I3i8sVR09qeJg==/base.dm': No such file or directory
+2023-10-22 20:56:33.119  5170-5170  nativeloader            edu...ischool.UW2065357.activityspy  D  Configuring clns-6 for other apk /data/app/~~wd79-vobGYaFFJyu6a-bEg==/edu.uw.ischool.UW2065357.activityspy-CblY4UgO0I3i8sVR09qeJg==/base.apk. target_sdk_version=33, uses_libraries=, library_path=/data/app/~~wd79-vobGYaFFJyu6a-bEg==/edu.uw.ischool.UW2065357.activityspy-CblY4UgO0I3i8sVR09qeJg==/lib/arm64, permitted_path=/data:/mnt/expand:/data/user/0/edu.uw.ischool.UW2065357.activityspy
+2023-10-22 20:56:33.130  5170-5170  GraphicsEnvironment     edu...ischool.UW2065357.activityspy  V  Currently set values for:
+2023-10-22 20:56:33.130  5170-5170  GraphicsEnvironment     edu...ischool.UW2065357.activityspy  V    angle_gl_driver_selection_pkgs=[]
+2023-10-22 20:56:33.131  5170-5170  GraphicsEnvironment     edu...ischool.UW2065357.activityspy  V    angle_gl_driver_selection_values=[]
+2023-10-22 20:56:33.131  5170-5170  GraphicsEnvironment     edu...ischool.UW2065357.activityspy  V  ANGLE GameManagerService for edu.uw.ischool.UW2065357.activityspy: false
+2023-10-22 20:56:33.131  5170-5170  GraphicsEnvironment     edu...ischool.UW2065357.activityspy  V  edu.uw.ischool.UW2065357.activityspy is not listed in per-application setting
+2023-10-22 20:56:33.131  5170-5170  GraphicsEnvironment     edu...ischool.UW2065357.activityspy  V  Neither updatable production driver nor prerelease driver is supported.
+2023-10-22 20:56:33.207  5170-5170  AppCompatDelegate       edu...ischool.UW2065357.activityspy  D  Checking for metadata for AppLocalesMetadataHolderService : Service not found
+2023-10-22 20:56:33.227  5170-5197  libEGL                  edu...ischool.UW2065357.activityspy  D  loaded /vendor/lib64/egl/libEGL_emulation.so
+2023-10-22 20:56:33.230  5170-5197  libEGL                  edu...ischool.UW2065357.activityspy  D  loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+2023-10-22 20:56:33.232  5170-5197  libEGL                  edu...ischool.UW2065357.activityspy  D  loaded /vendor/lib64/egl/libGLESv2_emulation.so
+2023-10-22 20:56:33.328  5170-5170  357.activityspy         edu...ischool.UW2065357.activityspy  W  Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+2023-10-22 20:56:33.329  5170-5170  357.activityspy         edu...ischool.UW2065357.activityspy  W  Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+2023-10-22 20:56:33.364  5170-5170  Compatibil...geReporter edu...ischool.UW2065357.activityspy  D  Compat change id reported: 210923482; UID 10183; state: ENABLED
+2023-10-22 20:56:33.374  5170-5170  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onCreate event fired
+2023-10-22 20:56:33.421  5170-5170  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onStart event fired
+2023-10-22 20:56:33.425  5170-5170  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onResume event fired
+2023-10-22 20:56:33.432  5170-5170  Compatibil...geReporter edu...ischool.UW2065357.activityspy  D  Compat change id reported: 237531167; UID 10183; state: DISABLED
+2023-10-22 20:56:33.441  5170-5170  OpenGLRenderer          edu...ischool.UW2065357.activityspy  W  Unknown dataspace 0
+2023-10-22 20:56:33.546  5170-5195  OpenGLRenderer          edu...ischool.UW2065357.activityspy  W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2023-10-22 20:56:33.554  5170-5195  OpenGLRenderer          edu...ischool.UW2065357.activityspy  W  Failed to initialize 101010-2 format, error = EGL_SUCCESS
+2023-10-22 20:56:33.610  5170-5195  Gralloc4                edu...ischool.UW2065357.activityspy  I  mapper 4.x is not supported
+2023-10-22 20:56:33.632  5170-5195  OpenGLRenderer          edu...ischool.UW2065357.activityspy  E  Unable to match the desired swap behavior.
+2023-10-22 20:56:43.776  5170-5170  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onPause event fired
+2023-10-22 20:56:43.832  5170-5170  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onStop event fired
+2023-10-22 20:56:45.454  5170-5170  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onStart event fired
+2023-10-22 20:56:45.454  5170-5170  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onResume event fired
+2023-10-22 20:56:45.479  5170-5195  OpenGLRenderer          edu...ischool.UW2065357.activityspy  E  Unable to match the desired swap behavior.
+2023-10-22 20:56:50.738  5170-5170  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onPause event fired
+2023-10-22 20:56:51.529  5170-5170  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onStop event fired
+2023-10-22 20:56:51.530  5170-5170  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onDestroy event fired
+2023-10-22 20:56:51.530  5170-5170  ActivityLifecycle       edu...ischool.UW2065357.activityspy  E  Look at me... I am the Captain Now -- Captain Philips
+2023-10-22 20:56:51.530  5170-5170  WindowOnBackDispatcher  edu...ischool.UW2065357.activityspy  W  sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@b97c9f3
+2023-10-22 20:56:54.898  5170-5170  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onCreate event fired
+2023-10-22 20:56:54.900  5170-5170  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onStart event fired
+2023-10-22 20:56:54.902  5170-5170  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onResume event fired
+2023-10-22 20:56:55.022  5170-5195  OpenGLRenderer          edu...ischool.UW2065357.activityspy  W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2023-10-22 20:56:55.027  5170-5195  OpenGLRenderer          edu...ischool.UW2065357.activityspy  W  Failed to initialize 101010-2 format, error = EGL_SUCCESS
+2023-10-22 20:56:55.043  5170-5195  OpenGLRenderer          edu...ischool.UW2065357.activityspy  E  Unable to match the desired swap behavior.
+2023-10-22 20:57:07.904  5170-5170  AutofillManager         edu...ischool.UW2065357.activityspy  D  Fill dialog is enabled:false, hints=[password, passwordAuto, creditCardNumber, creditCardSecurityCode, creditCardExpirationDate]
+2023-10-22 20:57:16.181  5170-5170  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onPause event fired
+2023-10-22 20:57:16.230  5170-5170  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onStop event fired
+2023-10-22 20:57:38.956  5170-5170  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onStart event fired
+2023-10-22 20:57:38.957  5170-5170  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onResume event fired
+2023-10-22 20:57:38.986  5170-5195  OpenGLRenderer          edu...ischool.UW2065357.activityspy  E  Unable to match the desired swap behavior.
+2023-10-22 20:57:58.808  5170-5170  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onPause event fired
+2023-10-22 20:57:58.821  5170-5170  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onStop event fired
+2023-10-22 20:58:04.874  5170-5170  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onDestroy event fired
+2023-10-22 20:58:04.874  5170-5170  ActivityLifecycle       edu...ischool.UW2065357.activityspy  E  Look at me... I am the Captain Now -- Captain Philips
+2023-10-22 20:58:04.875  5170-5170  WindowOnBackDispatcher  edu...ischool.UW2065357.activityspy  W  sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@5afc807
+2023-10-22 20:58:08.533  5331-5331  357.activityspy         edu...ischool.UW2065357.activityspy  I  Late-enabling -Xcheck:jni
+2023-10-22 20:58:08.556  5331-5331  357.activityspy         edu...ischool.UW2065357.activityspy  I  Using CollectorTypeCC GC.
+2023-10-22 20:58:08.586  5331-5331  Compatibil...geReporter edu...ischool.UW2065357.activityspy  D  Compat change id reported: 171979766; UID 10183; state: ENABLED
+2023-10-22 20:58:08.586  5331-5331  Compatibil...geReporter edu...ischool.UW2065357.activityspy  D  Compat change id reported: 242716250; UID 10183; state: DISABLED
+2023-10-22 20:58:08.591  5331-5331  ziparchive              edu...ischool.UW2065357.activityspy  W  Unable to open '/data/app/~~wd79-vobGYaFFJyu6a-bEg==/edu.uw.ischool.UW2065357.activityspy-CblY4UgO0I3i8sVR09qeJg==/base.dm': No such file or directory
+2023-10-22 20:58:08.591  5331-5331  ziparchive              edu...ischool.UW2065357.activityspy  W  Unable to open '/data/app/~~wd79-vobGYaFFJyu6a-bEg==/edu.uw.ischool.UW2065357.activityspy-CblY4UgO0I3i8sVR09qeJg==/base.dm': No such file or directory
+2023-10-22 20:58:08.675  5331-5331  nativeloader            edu...ischool.UW2065357.activityspy  D  Configuring clns-6 for other apk /data/app/~~wd79-vobGYaFFJyu6a-bEg==/edu.uw.ischool.UW2065357.activityspy-CblY4UgO0I3i8sVR09qeJg==/base.apk. target_sdk_version=33, uses_libraries=, library_path=/data/app/~~wd79-vobGYaFFJyu6a-bEg==/edu.uw.ischool.UW2065357.activityspy-CblY4UgO0I3i8sVR09qeJg==/lib/arm64, permitted_path=/data:/mnt/expand:/data/user/0/edu.uw.ischool.UW2065357.activityspy
+2023-10-22 20:58:08.679  5331-5331  GraphicsEnvironment     edu...ischool.UW2065357.activityspy  V  Currently set values for:
+2023-10-22 20:58:08.679  5331-5331  GraphicsEnvironment     edu...ischool.UW2065357.activityspy  V    angle_gl_driver_selection_pkgs=[]
+2023-10-22 20:58:08.679  5331-5331  GraphicsEnvironment     edu...ischool.UW2065357.activityspy  V    angle_gl_driver_selection_values=[]
+2023-10-22 20:58:08.680  5331-5331  GraphicsEnvironment     edu...ischool.UW2065357.activityspy  V  ANGLE GameManagerService for edu.uw.ischool.UW2065357.activityspy: false
+2023-10-22 20:58:08.680  5331-5331  GraphicsEnvironment     edu...ischool.UW2065357.activityspy  V  edu.uw.ischool.UW2065357.activityspy is not listed in per-application setting
+2023-10-22 20:58:08.680  5331-5331  GraphicsEnvironment     edu...ischool.UW2065357.activityspy  V  Neither updatable production driver nor prerelease driver is supported.
+2023-10-22 20:58:08.701  5331-5331  AppCompatDelegate       edu...ischool.UW2065357.activityspy  D  Checking for metadata for AppLocalesMetadataHolderService : Service not found
+2023-10-22 20:58:08.709  5331-5350  libEGL                  edu...ischool.UW2065357.activityspy  D  loaded /vendor/lib64/egl/libEGL_emulation.so
+2023-10-22 20:58:08.715  5331-5350  libEGL                  edu...ischool.UW2065357.activityspy  D  loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+2023-10-22 20:58:08.722  5331-5331  357.activityspy         edu...ischool.UW2065357.activityspy  W  Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+2023-10-22 20:58:08.724  5331-5331  357.activityspy         edu...ischool.UW2065357.activityspy  W  Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+2023-10-22 20:58:08.727  5331-5350  libEGL                  edu...ischool.UW2065357.activityspy  D  loaded /vendor/lib64/egl/libGLESv2_emulation.so
+2023-10-22 20:58:08.738  5331-5331  Compatibil...geReporter edu...ischool.UW2065357.activityspy  D  Compat change id reported: 210923482; UID 10183; state: ENABLED
+2023-10-22 20:58:08.741  5331-5331  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onCreate event fired
+2023-10-22 20:58:08.749  5331-5331  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onStart event fired
+2023-10-22 20:58:08.756  5331-5331  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onResume event fired
+2023-10-22 20:58:08.758  5331-5331  Compatibil...geReporter edu...ischool.UW2065357.activityspy  D  Compat change id reported: 237531167; UID 10183; state: DISABLED
+2023-10-22 20:58:08.759  5331-5331  OpenGLRenderer          edu...ischool.UW2065357.activityspy  W  Unknown dataspace 0
+2023-10-22 20:58:08.788  5331-5348  OpenGLRenderer          edu...ischool.UW2065357.activityspy  W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2023-10-22 20:58:08.788  5331-5348  OpenGLRenderer          edu...ischool.UW2065357.activityspy  W  Failed to initialize 101010-2 format, error = EGL_SUCCESS
+2023-10-22 20:58:08.793  5331-5348  Gralloc4                edu...ischool.UW2065357.activityspy  I  mapper 4.x is not supported
+2023-10-22 20:58:08.799  5331-5348  OpenGLRenderer          edu...ischool.UW2065357.activityspy  E  Unable to match the desired swap behavior.
+2023-10-22 20:58:20.605  5331-5331  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onPause event fired
+2023-10-22 20:58:20.628  5331-5331  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onStop event fired
+2023-10-22 21:00:24.435  5331-5331  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onStart event fired
+2023-10-22 21:00:24.437  5331-5331  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onResume event fired
+2023-10-22 21:00:24.515  5331-5348  OpenGLRenderer          edu...ischool.UW2065357.activityspy  W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2023-10-22 21:00:24.516  5331-5348  OpenGLRenderer          edu...ischool.UW2065357.activityspy  W  Failed to initialize 101010-2 format, error = EGL_SUCCESS
+2023-10-22 21:00:24.540  5331-5348  OpenGLRenderer          edu...ischool.UW2065357.activityspy  E  Unable to match the desired swap behavior.
+2023-10-22 21:15:08.153  5614-5614  357.activityspy         edu...ischool.UW2065357.activityspy  I  Late-enabling -Xcheck:jni
+2023-10-22 21:15:08.224  5614-5614  357.activityspy         edu...ischool.UW2065357.activityspy  I  Using CollectorTypeCC GC.
+2023-10-22 21:15:08.462  5614-5614  Compatibil...geReporter edu...ischool.UW2065357.activityspy  D  Compat change id reported: 171979766; UID 10183; state: ENABLED
+2023-10-22 21:15:08.463  5614-5614  Compatibil...geReporter edu...ischool.UW2065357.activityspy  D  Compat change id reported: 242716250; UID 10183; state: DISABLED
+2023-10-22 21:15:08.478  5614-5614  ziparchive              edu...ischool.UW2065357.activityspy  W  Unable to open '/data/app/~~P3jAbGj1VqGKtrP077Gkmw==/edu.uw.ischool.UW2065357.activityspy-hlIVdbNzpFTScjQZETQt2A==/base.dm': No such file or directory
+2023-10-22 21:15:08.478  5614-5614  ziparchive              edu...ischool.UW2065357.activityspy  W  Unable to open '/data/app/~~P3jAbGj1VqGKtrP077Gkmw==/edu.uw.ischool.UW2065357.activityspy-hlIVdbNzpFTScjQZETQt2A==/base.dm': No such file or directory
+2023-10-22 21:15:08.560  5614-5614  nativeloader            edu...ischool.UW2065357.activityspy  D  Configuring clns-6 for other apk /data/app/~~P3jAbGj1VqGKtrP077Gkmw==/edu.uw.ischool.UW2065357.activityspy-hlIVdbNzpFTScjQZETQt2A==/base.apk. target_sdk_version=33, uses_libraries=, library_path=/data/app/~~P3jAbGj1VqGKtrP077Gkmw==/edu.uw.ischool.UW2065357.activityspy-hlIVdbNzpFTScjQZETQt2A==/lib/arm64, permitted_path=/data:/mnt/expand:/data/user/0/edu.uw.ischool.UW2065357.activityspy
+2023-10-22 21:15:08.573  5614-5614  GraphicsEnvironment     edu...ischool.UW2065357.activityspy  V  Currently set values for:
+2023-10-22 21:15:08.574  5614-5614  GraphicsEnvironment     edu...ischool.UW2065357.activityspy  V    angle_gl_driver_selection_pkgs=[]
+2023-10-22 21:15:08.574  5614-5614  GraphicsEnvironment     edu...ischool.UW2065357.activityspy  V    angle_gl_driver_selection_values=[]
+2023-10-22 21:15:08.574  5614-5614  GraphicsEnvironment     edu...ischool.UW2065357.activityspy  V  ANGLE GameManagerService for edu.uw.ischool.UW2065357.activityspy: false
+2023-10-22 21:15:08.574  5614-5614  GraphicsEnvironment     edu...ischool.UW2065357.activityspy  V  edu.uw.ischool.UW2065357.activityspy is not listed in per-application setting
+2023-10-22 21:15:08.574  5614-5614  GraphicsEnvironment     edu...ischool.UW2065357.activityspy  V  Neither updatable production driver nor prerelease driver is supported.
+2023-10-22 21:15:08.597  5614-5657  libEGL                  edu...ischool.UW2065357.activityspy  D  loaded /vendor/lib64/egl/libEGL_emulation.so
+2023-10-22 21:15:08.598  5614-5657  libEGL                  edu...ischool.UW2065357.activityspy  D  loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+2023-10-22 21:15:08.608  5614-5657  libEGL                  edu...ischool.UW2065357.activityspy  D  loaded /vendor/lib64/egl/libGLESv2_emulation.so
+2023-10-22 21:15:08.656  5614-5614  AppCompatDelegate       edu...ischool.UW2065357.activityspy  D  Checking for metadata for AppLocalesMetadataHolderService : Service not found
+2023-10-22 21:15:08.706  5614-5614  357.activityspy         edu...ischool.UW2065357.activityspy  W  Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+2023-10-22 21:15:08.708  5614-5614  357.activityspy         edu...ischool.UW2065357.activityspy  W  Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+2023-10-22 21:15:08.732  5614-5614  Compatibil...geReporter edu...ischool.UW2065357.activityspy  D  Compat change id reported: 210923482; UID 10183; state: ENABLED
+2023-10-22 21:15:08.742  5614-5614  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onCreate event fired
+2023-10-22 21:15:08.762  5614-5614  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onStart event fired
+2023-10-22 21:15:08.765  5614-5614  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onResume event fired
+2023-10-22 21:15:08.778  5614-5614  Compatibil...geReporter edu...ischool.UW2065357.activityspy  D  Compat change id reported: 237531167; UID 10183; state: DISABLED
+2023-10-22 21:15:08.779  5614-5614  OpenGLRenderer          edu...ischool.UW2065357.activityspy  W  Unknown dataspace 0
+2023-10-22 21:15:08.826  5614-5656  OpenGLRenderer          edu...ischool.UW2065357.activityspy  W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2023-10-22 21:15:08.831  5614-5656  OpenGLRenderer          edu...ischool.UW2065357.activityspy  W  Failed to initialize 101010-2 format, error = EGL_SUCCESS
+2023-10-22 21:15:08.844  5614-5656  Gralloc4                edu...ischool.UW2065357.activityspy  I  mapper 4.x is not supported
+2023-10-22 21:15:08.859  5614-5656  OpenGLRenderer          edu...ischool.UW2065357.activityspy  E  Unable to match the desired swap behavior.
+2023-10-22 21:15:27.622  5614-5614  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onPause event fired
+2023-10-22 21:15:27.664  5614-5614  ActivityLifecycle       edu...ischool.UW2065357.activityspy  I  onStop event fired
